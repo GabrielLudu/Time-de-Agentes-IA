@@ -6,10 +6,6 @@
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![License: MIT](https://img.shields.io/badge/license-MIT-blue)
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/GabrielLudu" alt="Demo" width="600"/>
-</p>
-
 ## Sumário
 
 - [Sobre](#sobre)
