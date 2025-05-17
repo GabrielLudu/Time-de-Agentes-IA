@@ -4,7 +4,6 @@
 ![Gemini AI](https://img.shields.io/badge/Google%20Gemini-AI-orange)
 ![Rich](https://img.shields.io/badge/terminal-rich-green)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![License: MIT](https://img.shields.io/badge/license-MIT-blue)
 
 ## Sumário
 
