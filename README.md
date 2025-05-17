@@ -7,7 +7,7 @@
 ![License: MIT](https://img.shields.io/badge/license-MIT-blue)
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/GabrielLudu/demo.gif" alt="Demo" width="600"/>
+  <img src="https://user-images.githubusercontent.com/GabrielLudu" alt="Demo" width="600"/>
 </p>
 
 ## Sumário
@@ -50,8 +50,8 @@ O **Time de Agentes IA** é um projeto que simula uma equipe completa de desenvo
 1. **Clone** o repositório:
 
    ```bash
-   git clone https://github.com/GabrielLudu/time-agentes-ia.git
-   cd time-agentes-ia
+   git clone https://github.com/GabrielLudu/Time-de-Agentes-IA.git
+   cd Time-de-Agentes-IA
    ```
 
 2. **Ambiente Virtual**:
